@@ -1,0 +1,8 @@
+while True:
+    print('What is your name?')
+    name = input()
+    if name == "Rebecca":
+        print('Hello wife!')
+        break
+    else:
+        print('You are not my wife!')

@@ -1,0 +1,61 @@
+ch2Questions
+
+1. True or False
+2. and or not
+3. 
+True and True == True
+True and False == False
+False and True == False
+False and False == False
+
+True or False == True
+False or True == True
+True or True == True
+False or False == False
+
+not False == True
+not True == False
+
+4. 
+True and False == False
+not True == False
+True or False == True
+not ((True) or (False)) = False
+True and False == False
+True or False == True
+
+5. 
+== != > < => =<
+
+6. 
+== sets a value
+= sets a variable
+
+7. ??
+
+8. ??
+
+9. 
+print('What is the input of spam?')
+spam = input()
+if spam == str(1):
+    print('Hello')
+elif spam == str(2):
+    print('Howdy')
+else:
+    print('Greetings')
+	
+10. ctrl-c
+
+11. 
+break = ends the loop immediately if the above condition is met
+continue = continues the loop until the desired input is met
+
+12. They are all the same
+
+13. 
+for (i) in range(10):
+    print(i)
+	
+14. 
+	

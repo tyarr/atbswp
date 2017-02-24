@@ -1,0 +1,13 @@
+while True:
+    print('What is your age?')
+    age = input()
+    if age.isdecimal():
+        break
+    print('Give a numeric number please')
+
+while True:
+    print('Please provide a password')
+    password = input()
+    if password.isalnum():
+        break
+    print('Password must only contain numbers & letters')

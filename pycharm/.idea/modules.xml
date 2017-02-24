@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ch1/.idea/ch1.iml" filepath="$PROJECT_DIR$/../ch1/.idea/ch1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ch2/.idea/ch2.iml" filepath="$PROJECT_DIR$/../ch2/.idea/ch2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ch3/.idea/ch3.iml" filepath="$PROJECT_DIR$/../ch3/.idea/ch3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ch4/.idea/ch4.iml" filepath="$PROJECT_DIR$/../ch4/.idea/ch4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ch5/.idea/ch5.iml" filepath="$PROJECT_DIR$/../ch5/.idea/ch5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ch6/.idea/ch6.iml" filepath="$PROJECT_DIR$/../ch6/.idea/ch6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pycharm.iml" filepath="$PROJECT_DIR$/.idea/pycharm.iml" />
+    </modules>
+  </component>
+</project>

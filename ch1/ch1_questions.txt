@@ -1,0 +1,12 @@
+Ch1 Questions/Answers
+
+1. * - / +
+2. spam = variable | 'spam' = string
+3. integers, strings, floating points
+4. Expressions are made up of values & operaters 
+5. expression evaluate to a single value | statements do not
+6. 20. to reassign the value it would need to be bacon = bacon + 1
+7. spamspamspam
+8. variables cannot be integers
+9. int | str | float
+10. 99 is an integer and must be labelled as such. eg. str(99). Only strings can be concatenated
