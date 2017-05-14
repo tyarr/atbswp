@@ -1,3 +1,7 @@
+# This is a madlib game
+# User inputs data and it is printed to the console
+# The printed text to the console is saved as a text file
+
 # Input data
 print('Enter an adjective: ')
 a1 = input()
