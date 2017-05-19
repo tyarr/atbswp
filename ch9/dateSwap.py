@@ -29,8 +29,14 @@ for amerFilename in os.listdir('C:\\Users\\tyarboro\\Documents\\scripts\\testfol
     yearPart   = mo.group(6)
     afterPart  = mo.group(8)
 
-# TODO: Form the European-style filename.
+    # Form the European-style filename.
+    euroFilename = beforePart + dayPart + '-' + monthPart + '-' + yearPart + afterPart
 
-# TODO: Get the full, absolute file paths.
+    # Get the full, absolute file paths.
+    absWorkingDir = os.path.abspath('C:\\Users\\tyarboro\\Documents\\scripts\\testfolder')
+    amerFilename = os.path.join(absWorkingDir, amerFilename)
+    euroFilename = os.path.join(absWorkingDir, euroFilename)
 
-# TODO: Rename the files.
+    # Rename the files.
+    print('Renaming "%s" to "%s"...' % (amerFilename, euroFilename))
+    shutil.move(amerFilename, euroFilename)   # uncomment after testing
