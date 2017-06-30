@@ -1,0 +1,45 @@
+1497065761868	geckodriver	INFO	Listening on 127.0.0.1:49775
+1497065764065	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1497065778803	Marionette	INFO	Listening on port 49781
+1497065780106	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1497218519326	geckodriver::marionette	ERROR	Failed to kill browser process
+1497218532182	geckodriver	INFO	Listening on 127.0.0.1:64275
+1497218534151	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1497218541320	Marionette	INFO	Listening on port 64281
+[GPU 3468] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1497218541498	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://4272175.fls.doubleclick.net/activityi;src=4272175;type=fitbi849;cat=fitbi541;u8=en_us;ord=7884607388799;~oref=https%3A%2F%2Fwww.fitbit.com%2Fhome?, line 17: ReferenceError: Product is not defined
+JavaScript error: , line 0: uncaught exception: No active page configuration found
+JavaScript error: https://4272175.fls.doubleclick.net/activityi;src=4272175;type=fitbi849;cat=fitbi541;u8=en_us;ord=4986110976334;~oref=https%3A%2F%2Fwww.fitbit.com%2F?, line 17: ReferenceError: Product is not defined
+JavaScript error: , line 0: uncaught exception: No active page configuration found
+JavaScript warning: https://assets.fitbit.com/production/com.fitbit.app.foods.log.viewFoodLog.js.7cb78d9bba22834162ef0d8d6f5760c3.js, line 214: unreachable code after return statement
+JavaScript warning: https://assets.fitbit.com/production/com.fitbit.app.foods.log.viewFoodLog.js.7cb78d9bba22834162ef0d8d6f5760c3.js, line 1404: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: No active page configuration found
+[Child 3164] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3164] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 3468] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 3468] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1497218796773	geckodriver::marionette	ERROR	Failed to kill browser process
+1497222227628	geckodriver	INFO	Listening on 127.0.0.1:59009
+1497222229641	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1497222235651	Marionette	INFO	Listening on port 59017
+1497222235921	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: No active page configuration found
+[GPU 9904] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6628] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6628] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
