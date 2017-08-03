@@ -2,332 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f789005-7f86-4d13-a9dc-4bb653fb958f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/2016.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/2016_conversation_guide.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/2017.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/30_days_hath_september.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/50_ccs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/7_eleven.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/90s_kid.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/adjective_foods.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/adult.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/advent.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/ai_research.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/algorithms.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/all_you_can_eat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/anti_drone_eagles.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/antique_factory.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/apple_spectrum.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/appliance_repair.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/arcane_bullshit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/artifacts.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/astrophysics.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/baby.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/baby_post.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/back_seat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/backslashes.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/backups.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/bad_map_projection_liquid_resize.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/bad_map_projection_time_zones.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/baking_soda_and_vinegar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/barge.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/beer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/bells_theorem.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/best_tasting_colors.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/bird_plane_superman.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/birdsong.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/birdwatching.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/birthday.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/black_hole.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/blame.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/board_game.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/borrow_your_laptop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/box_plot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/bracket.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/brain_upload.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/british_map.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/bubblegum.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/bun.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/business_idea.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/captain_speaking.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/car_model_names.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/catcalling.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/chat_systems.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/chess_notation.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/christmas_settings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/city_talk_pages.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/code_quality_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/code_quality_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/coffee.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/cold_medicine.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/colds.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/color_pattern.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/conditionals.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/contrails.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/cron_mail.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/cyberintelligence.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/datacenter_scale.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/dear_diary.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/debugging.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/decision_paralysis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/degrees.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/dehydration.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/diacritics.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/digital_data.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/dna.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/doctor_visit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/doomsday_clock.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/driving.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/drone_problems.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/dubious_study.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/earth_temperature_timeline.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/emails.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/engineer_syllogism.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/episode_vii.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/estimating_time.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/every_seven_seconds.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/existential_bug_reports.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/exoplanet_names_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/famous_duos.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/fashion_police_and_grammar_police.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/feel_old.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/fire.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/fire_ants.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/five_day_forecast.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/fixing_problems.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/fixion.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/flag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/flashlights.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/focus_knob.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/food_combinations.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/food_rule.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/footprints.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/frankenstein.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/full_width_justification.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/future_archaeology.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/genetic_testing.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/genetic_testing_results.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/geochronology.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/git.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/glacial_erratic.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/gnome_ann.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/gravitational_waves.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/hacking.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/hardware_reductionism.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/hemingway.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/henge.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/here_to_help.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/home_itch_remedies.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/horses.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/hot_dogs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/hottest_editors.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/household_tips.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/human_subjects.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/humans.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/i_could_care_less.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/i_in_team.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/identification_chart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/im_with_her.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/in_case_of_emergency.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/incinerator.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/incognito_mode.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/inflection.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/insanity.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/interest_timescales.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/interplanetary_experience.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/intervocalic_fortition.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/isolation.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/iss_solar_transit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/iss_solar_transit_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/it_begins.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/it_was_i.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/jack_and_jill.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/judgment_day.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/juno.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/keyboard_mash.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/keyboard_problems.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/kitchen_tips.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/kites.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/laser_products.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/launch_status_check.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/laws_of_physics.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/life_goals.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/linear_regression.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/linguistics_club.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/listening.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/local_news.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/location_reviews.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/longer_than_usual.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/lunch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/lunch_order.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/lyrics.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/machine_learning.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/magic_tree.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/magnus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/making_friends.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/man_page.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/manhattan_project.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/map_age_guide.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/margaret.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/marketwatch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/message_in_a_bottle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/metabolism.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/meteorite_identification.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/migrating_geese.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/mispronunciation.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/moments_of_inspiration.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/moon_shapes.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/movie_folder.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/moving_boxes.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/mushrooms.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/my_friend_catherine.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/mycology.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/nasa_press_conference.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/negativity.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/never_seen_star_wars.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/new_bug.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/new_horizons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/november_2016.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/number_of_computers.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/okeanos.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/old_days.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/onboarding.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/opening_crawl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/optimization.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/overthinking.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/oxidation.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/ozymandias.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/palindrome.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/patch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/phishing_license.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/phone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/phone_numbers.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/photo_library_management.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/picture_a_grassy_field.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/pipelines.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/placebo_blocker.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/planespotting.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/planning.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/play_by_play.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/pluto.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/podium.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/pokemon_go.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/politifact.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/possible_undiscovered_planets.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/proofs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/public_key.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/pyramid_honey.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/quadcopter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/rainbow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/random_obsessions.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/rayleigh_scattering.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/recent_searches.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/record_scratch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/red_car.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/reductionism.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/reindeer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/rental_car.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/robotic_garage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/rosetta.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/rulebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/sad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/salt_mine.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/salvage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/scheduling_conflict.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/security_advice.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/settling.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/similarities.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/singularity.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/snakes.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/snapchat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/soda_sugar_comparisons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/solar_spectrum.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/solar_system_questions.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/speed_and_danger.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/spice_girls.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/spider_paleontology.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/squirrelphone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/stardew_valley.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/stargazing.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/starshade.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/startup_opportunity.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/state_word_map.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/strengths_and_weaknesses.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/substitutions_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/substitutions_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/super_bowl_context.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/superzoom.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/supreme_court.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/survivorship_bias.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/sweet_16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/synonym_movies.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/synonym_movies_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/tamagotchi_hive.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/team_chat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/team_effort.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/tech_loops.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/telescopes_refractor_vs_reflector.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/the_bdlpswdks_effect.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/the_martian.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/the_sky.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/the_source.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/the_three_laws_of_robotics.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/theft_quadrants.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/things_you_learn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/thumb_war.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/time_capsule.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/time_tracking_software.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/time_travel_thesis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/timeline_of_bicycle_design.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/tire_swing.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/to_taste.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/toasts.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/tools.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/tornado_safety_tips.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/trash.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/travel_ghosts.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/trouble_for_science.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/tv_problems.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/twitter_bot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/types.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/ui_change.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/unicode.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/united_states_map.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/universal_install_script.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/unpublished_discoveries.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/us_state_names.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/vet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/video_content.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/vodka.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/voice.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/voice_commands.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/volcano_types.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/vomiting_emoji.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/voting_systems.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/walking_into_things.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/water_delivery.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/water_phase_diagram.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/watson_medical_algorithm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/who.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/wifi.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/will_it_work.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/women_on_20s.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/woosh.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/words_for_pets.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/work.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/world_war_iii.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/wrong.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/xkcd_phone_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/xkcd_phone_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/xkcd_phone_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/xkcd_stack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/xkcd_survey.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/xkcd/xkcde.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/downloadXkcd.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/geckodriver.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/imgurDownloader.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/seleniumFindClass.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/geckodriver.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/python.iml" afterPath="$PROJECT_DIR$/.idea/python.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -342,44 +18,22 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="bccStatus.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../scripts/bccStatus.py">
+    <leaf>
+      <file leaf-file-name="backupToZip.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../scripts/backupToZip.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+            <state relative-caret-position="170">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="17" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fatSecret.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../scripts/fatSecret.py">
+      <file leaf-file-name="removeCsvHeader.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ch14/removeCsvHeader.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="918">
-              <caret line="54" column="9" lean-forward="false" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
-              <folding>
-                <element signature="e#77#91#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="downloadXkcd.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch11/downloadXkcd.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="imgurDownloader.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch11/imgurDownloader.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+            <state relative-caret-position="391">
+              <caret line="27" column="82" lean-forward="true" selection-start-line="27" selection-start-column="82" selection-end-line="27" selection-end-column="82" />
               <folding />
             </state>
           </provider>
@@ -437,6 +91,8 @@
         <option value="$PROJECT_DIR$/ch11/fitbitSubmitFood.py" />
         <option value="$PROJECT_DIR$/ch11/fatSecret.py" />
         <option value="$PROJECT_DIR$/ch11/imgurDownloader.py" />
+        <option value="$PROJECT_DIR$/ch14/readerObjectCsv.py" />
+        <option value="$PROJECT_DIR$/ch14/removeCsvHeader.py" />
       </list>
     </option>
   </component>
@@ -464,10 +120,20 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="python" />
@@ -478,12 +144,26 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ch14" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/Programs/Python/Python36/python.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../scripts" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -504,7 +184,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.fatSecret">
+  <component name="RunManager" selected="Python.removeCsvHeader">
     <configuration default="false" name="fitbitSubmitFood" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -518,42 +198,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch11/fitbitSubmitFood.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="seleniumFindClass" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Python36\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch11" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch11/seleniumFindClass.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="rangeTest2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Python36\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch02" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch02/rangeTest2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -590,6 +234,42 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch11/fatSecret.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="readerObjectCsv" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch14" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch14/readerObjectCsv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="removeCsvHeader" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch14" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch14/removeCsvHeader.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -693,18 +373,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.fitbitSubmitFood" />
-      <item index="1" class="java.lang.String" itemvalue="Python.seleniumFindClass" />
-      <item index="2" class="java.lang.String" itemvalue="Python.rangeTest2" />
-      <item index="3" class="java.lang.String" itemvalue="Python.rangeTest" />
-      <item index="4" class="java.lang.String" itemvalue="Python.fatSecret" />
+      <item index="1" class="java.lang.String" itemvalue="Python.rangeTest" />
+      <item index="2" class="java.lang.String" itemvalue="Python.fatSecret" />
+      <item index="3" class="java.lang.String" itemvalue="Python.readerObjectCsv" />
+      <item index="4" class="java.lang.String" itemvalue="Python.removeCsvHeader" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.fatSecret" />
-        <item index="1" class="java.lang.String" itemvalue="Python.fitbitSubmitFood" />
-        <item index="2" class="java.lang.String" itemvalue="Python.rangeTest" />
-        <item index="3" class="java.lang.String" itemvalue="Python.rangeTest2" />
-        <item index="4" class="java.lang.String" itemvalue="Python.seleniumFindClass" />
+        <item index="0" class="java.lang.String" itemvalue="Python.removeCsvHeader" />
+        <item index="1" class="java.lang.String" itemvalue="Python.readerObjectCsv" />
+        <item index="2" class="java.lang.String" itemvalue="Python.fatSecret" />
+        <item index="3" class="java.lang.String" itemvalue="Python.fitbitSubmitFood" />
+        <item index="4" class="java.lang.String" itemvalue="Python.rangeTest" />
       </list>
     </recent_temporary>
     <configuration default="true" type="tests" factoryName="Attests">
@@ -741,18 +421,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16897655" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13965885" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44853738" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33041576" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44745395" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995749" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995749" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -795,10 +476,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ch7/regexStrip.py" />
-    <entry file="file://$PROJECT_DIR$/ch7/threeDigitComma.py" />
-    <entry file="file://$PROJECT_DIR$/ch8/randomQuizGenerator.py" />
-    <entry file="file://$PROJECT_DIR$/ch8/madLibGame.py" />
     <entry file="file://$PROJECT_DIR$/ch9/osModuleTest.py" />
     <entry file="file://$PROJECT_DIR$/ch9/send2Trash.py" />
     <entry file="file://$PROJECT_DIR$/ch9/walkingDirectoryTree.py" />
@@ -1064,19 +741,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ch11/fitbitSubmitFood.py" />
     <entry file="file://$PROJECT_DIR$/ch11/fatSecret.py" />
+    <entry file="file://$PROJECT_DIR$/../scripts/fatSecret.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="838">
+          <caret line="54" column="9" lean-forward="false" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../scripts/bccStatus.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch11/imgurDownloader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1084,17 +759,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch11/imgurDownloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch14/readerObjectCsv.py" />
+    <entry file="file://$PROJECT_DIR$/../scripts/selectiveFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../scripts/fatSecret.py">
+    <entry file="file://$PROJECT_DIR$/../scripts/backupToZip.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="54" column="9" lean-forward="false" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
-          <folding>
-            <element signature="e#77#91#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="17" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch14/removeCsvHeader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="27" column="82" lean-forward="true" selection-start-line="27" selection-start-column="82" selection-end-line="27" selection-end-column="82" />
+          <folding />
         </state>
       </provider>
     </entry>
